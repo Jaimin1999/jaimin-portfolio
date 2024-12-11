@@ -61,7 +61,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/yourgithubprofile"
+                  href="https://github.com/Jaimin1999/keeper-app/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -72,7 +72,7 @@ function Home2() {
 
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/yourlinkedinprofile/"
+                  href="https://www.linkedin.com/in/jaimin-kharadi-737294242/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

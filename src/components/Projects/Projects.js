@@ -37,28 +37,29 @@ export default Projects;
 
 const projectData = [
   {
-    imgPath: require("../../Assets/Projects/chatify.png"),
+    imgPath: require("../../Assets/Projects/snkr.png"),
     isBlog: false,
     title: "Sneaker Heads",
-    description: "E commerce Website for sneaker",
+    description: ` Developed a feature-rich e-commerce-website tailored specifically for sneaker enthusiasts, offering an intuitive, fast, and secure shoppingexperience.`,
     ghLink: "https://github.com/Jaimin1999/sneakerhds",
-    demoLink: "https://chatify-49.web.app/",
+    demoLink: "https://visionary-cajeta-ff3815.netlify.app/",
   },
   {
-    imgPath: require("../../Assets/Projects/blog.png"),
+    imgPath: require("../../Assets/Projects/crypto.png"),
     isBlog: false,
     title: "Crypto Tracker",
-    description: "Crypto Tracker",
+    description: `A crypto-info website provides users with information, data and resources related to cryptocurreccies`,
     ghLink: "https://github.com/Jaimin1999/crypto-tracker77",
-    demoLink: "https://blogs.soumya-jit.tech/",
+    demoLink: "https://crypto-tracker77.netlify.app/",
   },
   {
-    imgPath: require("../../Assets/Projects/codeEditor.png"),
+    imgPath: require("../../Assets/Projects/keeper.png"),
     isBlog: false,
     title: "Keeper App",
-    description: "Keeper App clone of google keep",
+    description:
+      "A keeper clone website aimes to replicate the features and functionality of the application called Google Keep",
     ghLink: "https://github.com/Jaimin1999/keeper-app",
-    demoLink: "https://editor.soumya-jit.tech/",
+    demoLink: "https://jaimin1999.github.io/keeper-app/",
   },
   // {
   //   imgPath: require("../../Assets/Projects/leaf.png"),
